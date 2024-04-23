@@ -37,7 +37,7 @@ if [ "$install" ]; then
 fi
 
 # Final setup
-cp ../home /home/alihmohammad
+#cp ../home /home/alihmohammad
 
 echo "Install Script complete!"
 
